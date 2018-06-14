@@ -13,12 +13,13 @@ cd src
 npm i
 ```
 ### Start Grunt
-Navigate to src file and run grunt
+Ensure you are inside the src directory and run grunt
 ```
 grunt
 ```
 ### Open a new tab in terminal and start your server
 ```
+cd dist
 hs -o
 ```
 
